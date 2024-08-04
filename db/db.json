@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "a8bc",
+      "name": "max",
+      "email": "max@test.com",
+      "password": "123"
+    },
+    {
+      "id": "10c5",
+      "name": "nun",
+      "email": "nun@test.com",
+      "password": "123"
+    },
+    {
+      "id": "e437",
+      "name": "maxxy",
+      "email": "maxxy@test.com",
+      "password": "1234"
+    },
+    {
+      "id": "4563",
+      "name": "diogo",
+      "email": "diogo@test.com",
+      "password": "1234"
+    },
+    {
+      "id": "546f",
+      "name": "maxx",
+      "email": "maxx@test.com",
+      "password": "123"
+    },
+    {
+      "id": "80c7",
+      "name": "blings",
+      "email": "blings@test.com",
+      "password": "1234"
+    },
+    {
+      "id": "1ec1",
+      "name": "maxis",
+      "email": "maxis@test.com",
+      "password": "123"
+    },
+    {
+      "id": "0bb8",
+      "name": "nunn",
+      "email": "nunn@test.com",
+      "password": "1234"
+    },
+    {
+      "id": "600a",
+      "name": "max",
+      "email": "max@test.com",
+      "password": "123"
+    },
+    {
+      "id": "e1c5",
+      "name": "max",
+      "email": "max@test.com",
+      "password": "123"
+    },
+    {
+      "id": "30d6",
+      "name": "max",
+      "email": "max@test.com",
+      "password": "123"
+    },
+    {
+      "id": "2219",
+      "name": "meska",
+      "email": "meska@test.com",
+      "password": "123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "max cousine",
+      "address": "plot A21",
+      "contact": "123456",
+      "id": "a246"
+    },
+    {
+      "id": "82f3",
+      "name": "nun star",
+      "address": "stadium road",
+      "contact": "112233"
+    },
+    {
+      "id": "b660",
+      "name": "maxy foods",
+      "address": "b17 road",
+      "contact": "123456"
+    }
+  ]
+}
